@@ -63,7 +63,7 @@ We predict whether SPY goes **up or down the next trading day**.
 Binary label:
 
 - `1` → SPY goes up the next day  
-- `0` → SPY goes down the next day  
+- `-1` → SPY goes down the next day  
 
 ### Success Criteria
 
